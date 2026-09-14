@@ -34,7 +34,7 @@
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" width="30" alt="Godot" />
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodedotjs/nodedotjs-original.svg" width="30" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
 </p>
 
 ---
@@ -42,13 +42,9 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Xlron01&show_icons=true&hide_border=true&include_all_commits=true" alt="GitHub stats" height="165" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xlron01&layout=compact&hide_border=true" alt="Top languages" height="165" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=Xlron01&hide_border=true" alt="Commit streak" height="160" />
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Xlron01&hide_border=true" alt="Profile summary" height="160" />
 </p>
 
 ---

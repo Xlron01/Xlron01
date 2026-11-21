@@ -57,13 +57,11 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Xlron01&theme=github-compact&hide_border=true&area=true" alt="Contribution activity graph" width="95%" />
 </p>
 
-<!-- Optional: contribution snake. Uncomment after the one-time GitHub Action setup (see setup steps shared with this file).
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Xlron01/Xlron01/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Xlron01/Xlron01/output/github-snake.svg" />
   <img alt="contribution snake" src="https://raw.githubusercontent.com/Xlron01/Xlron01/output/github-snake.svg" />
 </picture>
--->
 
 ---
 
